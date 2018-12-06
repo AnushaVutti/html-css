@@ -1,0 +1,16 @@
+
+body {
+ 		background: #e3e3e3;
+ 		margin-left:300px;
+ 		width: 500px;
+ 		margin: auto;
+ 		font-family: sans-serif;
+ 	
+ }
+ .emphasis {
+ 	border: 1px solid white;
+ 	text-align: center;
+ 	padding-top: 10px;
+    padding-bottom: 10px;
+ }
+ 	
